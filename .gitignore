@@ -1,0 +1,5 @@
+*.ini
+*.ipynb
+*.csv
+*.sql
+*.json
